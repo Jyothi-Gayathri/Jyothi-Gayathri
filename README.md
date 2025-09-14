@@ -28,8 +28,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yellapu-jyothi-gayathri-5705991b7/)  
-📧 Email: jyothigayathriyellapu@gmail.co
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yellapu-jyothi-gayathri-5705991b7/)
+📧 Email: jyothigayathriyellapu@gmail.com
 
 
 
